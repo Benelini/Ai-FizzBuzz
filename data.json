@@ -1,0 +1,4002 @@
+[
+    {
+        "input": 6569,
+        "output": "6569"
+    },
+    {
+        "input": 1599,
+        "output": "Fizz"
+    },
+    {
+        "input": 5712,
+        "output": "Fizz"
+    },
+    {
+        "input": 5184,
+        "output": "Fizz"
+    },
+    {
+        "input": 1080,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5639,
+        "output": "5639"
+    },
+    {
+        "input": 5194,
+        "output": "5194"
+    },
+    {
+        "input": 2319,
+        "output": "Fizz"
+    },
+    {
+        "input": 8845,
+        "output": "Buzz"
+    },
+    {
+        "input": 9718,
+        "output": "9718"
+    },
+    {
+        "input": 6403,
+        "output": "6403"
+    },
+    {
+        "input": 4593,
+        "output": "Fizz"
+    },
+    {
+        "input": 9098,
+        "output": "9098"
+    },
+    {
+        "input": 5249,
+        "output": "5249"
+    },
+    {
+        "input": 887,
+        "output": "887"
+    },
+    {
+        "input": 9035,
+        "output": "Buzz"
+    },
+    {
+        "input": 8159,
+        "output": "8159"
+    },
+    {
+        "input": 8608,
+        "output": "8608"
+    },
+    {
+        "input": 8720,
+        "output": "Buzz"
+    },
+    {
+        "input": 4011,
+        "output": "Fizz"
+    },
+    {
+        "input": 6470,
+        "output": "Buzz"
+    },
+    {
+        "input": 3290,
+        "output": "Buzz"
+    },
+    {
+        "input": 2828,
+        "output": "2828"
+    },
+    {
+        "input": 6585,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 9268,
+        "output": "9268"
+    },
+    {
+        "input": 2848,
+        "output": "2848"
+    },
+    {
+        "input": 1679,
+        "output": "1679"
+    },
+    {
+        "input": 2535,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1654,
+        "output": "1654"
+    },
+    {
+        "input": 1610,
+        "output": "Buzz"
+    },
+    {
+        "input": 6416,
+        "output": "6416"
+    },
+    {
+        "input": 1853,
+        "output": "1853"
+    },
+    {
+        "input": 7730,
+        "output": "Buzz"
+    },
+    {
+        "input": 2499,
+        "output": "Fizz"
+    },
+    {
+        "input": 7655,
+        "output": "Buzz"
+    },
+    {
+        "input": 6993,
+        "output": "Fizz"
+    },
+    {
+        "input": 2184,
+        "output": "Fizz"
+    },
+    {
+        "input": 3232,
+        "output": "3232"
+    },
+    {
+        "input": 3885,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 8653,
+        "output": "8653"
+    },
+    {
+        "input": 4546,
+        "output": "4546"
+    },
+    {
+        "input": 8942,
+        "output": "8942"
+    },
+    {
+        "input": 4219,
+        "output": "4219"
+    },
+    {
+        "input": 3543,
+        "output": "Fizz"
+    },
+    {
+        "input": 4851,
+        "output": "Fizz"
+    },
+    {
+        "input": 1137,
+        "output": "Fizz"
+    },
+    {
+        "input": 5311,
+        "output": "5311"
+    },
+    {
+        "input": 925,
+        "output": "Buzz"
+    },
+    {
+        "input": 8986,
+        "output": "8986"
+    },
+    {
+        "input": 2452,
+        "output": "2452"
+    },
+    {
+        "input": 2655,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 9784,
+        "output": "9784"
+    },
+    {
+        "input": 5960,
+        "output": "Buzz"
+    },
+    {
+        "input": 2188,
+        "output": "2188"
+    },
+    {
+        "input": 1361,
+        "output": "1361"
+    },
+    {
+        "input": 9905,
+        "output": "Buzz"
+    },
+    {
+        "input": 7036,
+        "output": "7036"
+    },
+    {
+        "input": 7780,
+        "output": "Buzz"
+    },
+    {
+        "input": 3584,
+        "output": "3584"
+    },
+    {
+        "input": 8850,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5695,
+        "output": "Buzz"
+    },
+    {
+        "input": 6144,
+        "output": "Fizz"
+    },
+    {
+        "input": 3128,
+        "output": "3128"
+    },
+    {
+        "input": 9200,
+        "output": "Buzz"
+    },
+    {
+        "input": 3038,
+        "output": "3038"
+    },
+    {
+        "input": 4738,
+        "output": "4738"
+    },
+    {
+        "input": 5165,
+        "output": "Buzz"
+    },
+    {
+        "input": 1391,
+        "output": "1391"
+    },
+    {
+        "input": 3513,
+        "output": "Fizz"
+    },
+    {
+        "input": 7154,
+        "output": "7154"
+    },
+    {
+        "input": 6816,
+        "output": "Fizz"
+    },
+    {
+        "input": 9699,
+        "output": "Fizz"
+    },
+    {
+        "input": 4673,
+        "output": "4673"
+    },
+    {
+        "input": 3373,
+        "output": "3373"
+    },
+    {
+        "input": 7431,
+        "output": "Fizz"
+    },
+    {
+        "input": 9648,
+        "output": "Fizz"
+    },
+    {
+        "input": 7788,
+        "output": "Fizz"
+    },
+    {
+        "input": 2725,
+        "output": "Buzz"
+    },
+    {
+        "input": 3466,
+        "output": "3466"
+    },
+    {
+        "input": 7607,
+        "output": "7607"
+    },
+    {
+        "input": 4508,
+        "output": "4508"
+    },
+    {
+        "input": 54,
+        "output": "Fizz"
+    },
+    {
+        "input": 3873,
+        "output": "Fizz"
+    },
+    {
+        "input": 2889,
+        "output": "Fizz"
+    },
+    {
+        "input": 6459,
+        "output": "Fizz"
+    },
+    {
+        "input": 4333,
+        "output": "4333"
+    },
+    {
+        "input": 256,
+        "output": "256"
+    },
+    {
+        "input": 2532,
+        "output": "Fizz"
+    },
+    {
+        "input": 1745,
+        "output": "Buzz"
+    },
+    {
+        "input": 3833,
+        "output": "3833"
+    },
+    {
+        "input": 2770,
+        "output": "Buzz"
+    },
+    {
+        "input": 6509,
+        "output": "6509"
+    },
+    {
+        "input": 85,
+        "output": "Buzz"
+    },
+    {
+        "input": 2285,
+        "output": "Buzz"
+    },
+    {
+        "input": 2723,
+        "output": "2723"
+    },
+    {
+        "input": 8439,
+        "output": "Fizz"
+    },
+    {
+        "input": 5190,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6697,
+        "output": "6697"
+    },
+    {
+        "input": 6844,
+        "output": "6844"
+    },
+    {
+        "input": 2121,
+        "output": "Fizz"
+    },
+    {
+        "input": 1790,
+        "output": "Buzz"
+    },
+    {
+        "input": 6729,
+        "output": "Fizz"
+    },
+    {
+        "input": 8073,
+        "output": "Fizz"
+    },
+    {
+        "input": 2001,
+        "output": "Fizz"
+    },
+    {
+        "input": 2049,
+        "output": "Fizz"
+    },
+    {
+        "input": 5709,
+        "output": "Fizz"
+    },
+    {
+        "input": 5531,
+        "output": "5531"
+    },
+    {
+        "input": 6830,
+        "output": "Buzz"
+    },
+    {
+        "input": 426,
+        "output": "Fizz"
+    },
+    {
+        "input": 4819,
+        "output": "4819"
+    },
+    {
+        "input": 5653,
+        "output": "5653"
+    },
+    {
+        "input": 8745,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7659,
+        "output": "Fizz"
+    },
+    {
+        "input": 5833,
+        "output": "5833"
+    },
+    {
+        "input": 5332,
+        "output": "5332"
+    },
+    {
+        "input": 2221,
+        "output": "2221"
+    },
+    {
+        "input": 9652,
+        "output": "9652"
+    },
+    {
+        "input": 8309,
+        "output": "8309"
+    },
+    {
+        "input": 9503,
+        "output": "9503"
+    },
+    {
+        "input": 2066,
+        "output": "2066"
+    },
+    {
+        "input": 2940,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5135,
+        "output": "Buzz"
+    },
+    {
+        "input": 1725,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6965,
+        "output": "Buzz"
+    },
+    {
+        "input": 5503,
+        "output": "5503"
+    },
+    {
+        "input": 3047,
+        "output": "3047"
+    },
+    {
+        "input": 1101,
+        "output": "Fizz"
+    },
+    {
+        "input": 7550,
+        "output": "Buzz"
+    },
+    {
+        "input": 1369,
+        "output": "1369"
+    },
+    {
+        "input": 3688,
+        "output": "3688"
+    },
+    {
+        "input": 3372,
+        "output": "Fizz"
+    },
+    {
+        "input": 3416,
+        "output": "3416"
+    },
+    {
+        "input": 1984,
+        "output": "1984"
+    },
+    {
+        "input": 1231,
+        "output": "1231"
+    },
+    {
+        "input": 7398,
+        "output": "Fizz"
+    },
+    {
+        "input": 4647,
+        "output": "Fizz"
+    },
+    {
+        "input": 8461,
+        "output": "8461"
+    },
+    {
+        "input": 7698,
+        "output": "Fizz"
+    },
+    {
+        "input": 296,
+        "output": "296"
+    },
+    {
+        "input": 9075,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6874,
+        "output": "6874"
+    },
+    {
+        "input": 2095,
+        "output": "Buzz"
+    },
+    {
+        "input": 3046,
+        "output": "3046"
+    },
+    {
+        "input": 8207,
+        "output": "8207"
+    },
+    {
+        "input": 3275,
+        "output": "Buzz"
+    },
+    {
+        "input": 5432,
+        "output": "5432"
+    },
+    {
+        "input": 7161,
+        "output": "Fizz"
+    },
+    {
+        "input": 8360,
+        "output": "Buzz"
+    },
+    {
+        "input": 6002,
+        "output": "6002"
+    },
+    {
+        "input": 3341,
+        "output": "3341"
+    },
+    {
+        "input": 5553,
+        "output": "Fizz"
+    },
+    {
+        "input": 8347,
+        "output": "8347"
+    },
+    {
+        "input": 8931,
+        "output": "Fizz"
+    },
+    {
+        "input": 1689,
+        "output": "Fizz"
+    },
+    {
+        "input": 5966,
+        "output": "5966"
+    },
+    {
+        "input": 1115,
+        "output": "Buzz"
+    },
+    {
+        "input": 3518,
+        "output": "3518"
+    },
+    {
+        "input": 2584,
+        "output": "2584"
+    },
+    {
+        "input": 2695,
+        "output": "Buzz"
+    },
+    {
+        "input": 4103,
+        "output": "4103"
+    },
+    {
+        "input": 208,
+        "output": "208"
+    },
+    {
+        "input": 32,
+        "output": "32"
+    },
+    {
+        "input": 7071,
+        "output": "Fizz"
+    },
+    {
+        "input": 8557,
+        "output": "8557"
+    },
+    {
+        "input": 5893,
+        "output": "5893"
+    },
+    {
+        "input": 8786,
+        "output": "8786"
+    },
+    {
+        "input": 4082,
+        "output": "4082"
+    },
+    {
+        "input": 7426,
+        "output": "7426"
+    },
+    {
+        "input": 1161,
+        "output": "Fizz"
+    },
+    {
+        "input": 1491,
+        "output": "Fizz"
+    },
+    {
+        "input": 9121,
+        "output": "9121"
+    },
+    {
+        "input": 5530,
+        "output": "Buzz"
+    },
+    {
+        "input": 6677,
+        "output": "6677"
+    },
+    {
+        "input": 9794,
+        "output": "9794"
+    },
+    {
+        "input": 3928,
+        "output": "3928"
+    },
+    {
+        "input": 2030,
+        "output": "Buzz"
+    },
+    {
+        "input": 9714,
+        "output": "Fizz"
+    },
+    {
+        "input": 8907,
+        "output": "Fizz"
+    },
+    {
+        "input": 854,
+        "output": "854"
+    },
+    {
+        "input": 2371,
+        "output": "2371"
+    },
+    {
+        "input": 7347,
+        "output": "Fizz"
+    },
+    {
+        "input": 8957,
+        "output": "8957"
+    },
+    {
+        "input": 6203,
+        "output": "6203"
+    },
+    {
+        "input": 8881,
+        "output": "8881"
+    },
+    {
+        "input": 1631,
+        "output": "1631"
+    },
+    {
+        "input": 4623,
+        "output": "Fizz"
+    },
+    {
+        "input": 5957,
+        "output": "5957"
+    },
+    {
+        "input": 3477,
+        "output": "Fizz"
+    },
+    {
+        "input": 7269,
+        "output": "Fizz"
+    },
+    {
+        "input": 1270,
+        "output": "Buzz"
+    },
+    {
+        "input": 5440,
+        "output": "Buzz"
+    },
+    {
+        "input": 2268,
+        "output": "Fizz"
+    },
+    {
+        "input": 4403,
+        "output": "4403"
+    },
+    {
+        "input": 9618,
+        "output": "Fizz"
+    },
+    {
+        "input": 1436,
+        "output": "1436"
+    },
+    {
+        "input": 4179,
+        "output": "Fizz"
+    },
+    {
+        "input": 7070,
+        "output": "Buzz"
+    },
+    {
+        "input": 9186,
+        "output": "Fizz"
+    },
+    {
+        "input": 1245,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5761,
+        "output": "5761"
+    },
+    {
+        "input": 9097,
+        "output": "9097"
+    },
+    {
+        "input": 8501,
+        "output": "8501"
+    },
+    {
+        "input": 3588,
+        "output": "Fizz"
+    },
+    {
+        "input": 304,
+        "output": "304"
+    },
+    {
+        "input": 4551,
+        "output": "Fizz"
+    },
+    {
+        "input": 1755,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1512,
+        "output": "Fizz"
+    },
+    {
+        "input": 1370,
+        "output": "Buzz"
+    },
+    {
+        "input": 3922,
+        "output": "3922"
+    },
+    {
+        "input": 5847,
+        "output": "Fizz"
+    },
+    {
+        "input": 7469,
+        "output": "7469"
+    },
+    {
+        "input": 634,
+        "output": "634"
+    },
+    {
+        "input": 5267,
+        "output": "5267"
+    },
+    {
+        "input": 7646,
+        "output": "7646"
+    },
+    {
+        "input": 5670,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5443,
+        "output": "5443"
+    },
+    {
+        "input": 5080,
+        "output": "Buzz"
+    },
+    {
+        "input": 8086,
+        "output": "8086"
+    },
+    {
+        "input": 4824,
+        "output": "Fizz"
+    },
+    {
+        "input": 1409,
+        "output": "1409"
+    },
+    {
+        "input": 6000,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 3451,
+        "output": "3451"
+    },
+    {
+        "input": 3952,
+        "output": "3952"
+    },
+    {
+        "input": 8398,
+        "output": "8398"
+    },
+    {
+        "input": 7975,
+        "output": "Buzz"
+    },
+    {
+        "input": 7961,
+        "output": "7961"
+    },
+    {
+        "input": 7984,
+        "output": "7984"
+    },
+    {
+        "input": 663,
+        "output": "Fizz"
+    },
+    {
+        "input": 6240,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 9020,
+        "output": "Buzz"
+    },
+    {
+        "input": 9921,
+        "output": "Fizz"
+    },
+    {
+        "input": 6546,
+        "output": "Fizz"
+    },
+    {
+        "input": 8539,
+        "output": "8539"
+    },
+    {
+        "input": 8350,
+        "output": "Buzz"
+    },
+    {
+        "input": 7215,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7316,
+        "output": "7316"
+    },
+    {
+        "input": 964,
+        "output": "964"
+    },
+    {
+        "input": 140,
+        "output": "Buzz"
+    },
+    {
+        "input": 8087,
+        "output": "8087"
+    },
+    {
+        "input": 2283,
+        "output": "Fizz"
+    },
+    {
+        "input": 5022,
+        "output": "Fizz"
+    },
+    {
+        "input": 284,
+        "output": "284"
+    },
+    {
+        "input": 1953,
+        "output": "Fizz"
+    },
+    {
+        "input": 6940,
+        "output": "Buzz"
+    },
+    {
+        "input": 879,
+        "output": "Fizz"
+    },
+    {
+        "input": 5434,
+        "output": "5434"
+    },
+    {
+        "input": 9143,
+        "output": "9143"
+    },
+    {
+        "input": 462,
+        "output": "Fizz"
+    },
+    {
+        "input": 9211,
+        "output": "9211"
+    },
+    {
+        "input": 8916,
+        "output": "Fizz"
+    },
+    {
+        "input": 4548,
+        "output": "Fizz"
+    },
+    {
+        "input": 3545,
+        "output": "Buzz"
+    },
+    {
+        "input": 5495,
+        "output": "Buzz"
+    },
+    {
+        "input": 303,
+        "output": "Fizz"
+    },
+    {
+        "input": 6008,
+        "output": "6008"
+    },
+    {
+        "input": 8885,
+        "output": "Buzz"
+    },
+    {
+        "input": 3120,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2399,
+        "output": "2399"
+    },
+    {
+        "input": 982,
+        "output": "982"
+    },
+    {
+        "input": 6820,
+        "output": "Buzz"
+    },
+    {
+        "input": 7381,
+        "output": "7381"
+    },
+    {
+        "input": 310,
+        "output": "Buzz"
+    },
+    {
+        "input": 9841,
+        "output": "9841"
+    },
+    {
+        "input": 538,
+        "output": "538"
+    },
+    {
+        "input": 4306,
+        "output": "4306"
+    },
+    {
+        "input": 4753,
+        "output": "4753"
+    },
+    {
+        "input": 463,
+        "output": "463"
+    },
+    {
+        "input": 6260,
+        "output": "Buzz"
+    },
+    {
+        "input": 8618,
+        "output": "8618"
+    },
+    {
+        "input": 9553,
+        "output": "9553"
+    },
+    {
+        "input": 9325,
+        "output": "Buzz"
+    },
+    {
+        "input": 8554,
+        "output": "8554"
+    },
+    {
+        "input": 2571,
+        "output": "Fizz"
+    },
+    {
+        "input": 2527,
+        "output": "2527"
+    },
+    {
+        "input": 2401,
+        "output": "2401"
+    },
+    {
+        "input": 2472,
+        "output": "Fizz"
+    },
+    {
+        "input": 406,
+        "output": "406"
+    },
+    {
+        "input": 6906,
+        "output": "Fizz"
+    },
+    {
+        "input": 3340,
+        "output": "Buzz"
+    },
+    {
+        "input": 5008,
+        "output": "5008"
+    },
+    {
+        "input": 7616,
+        "output": "7616"
+    },
+    {
+        "input": 4152,
+        "output": "Fizz"
+    },
+    {
+        "input": 7678,
+        "output": "7678"
+    },
+    {
+        "input": 3693,
+        "output": "Fizz"
+    },
+    {
+        "input": 8358,
+        "output": "Fizz"
+    },
+    {
+        "input": 2204,
+        "output": "2204"
+    },
+    {
+        "input": 4872,
+        "output": "Fizz"
+    },
+    {
+        "input": 1825,
+        "output": "Buzz"
+    },
+    {
+        "input": 5754,
+        "output": "Fizz"
+    },
+    {
+        "input": 7017,
+        "output": "Fizz"
+    },
+    {
+        "input": 870,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1348,
+        "output": "1348"
+    },
+    {
+        "input": 4853,
+        "output": "4853"
+    },
+    {
+        "input": 1184,
+        "output": "1184"
+    },
+    {
+        "input": 139,
+        "output": "139"
+    },
+    {
+        "input": 2651,
+        "output": "2651"
+    },
+    {
+        "input": 4944,
+        "output": "Fizz"
+    },
+    {
+        "input": 832,
+        "output": "832"
+    },
+    {
+        "input": 5728,
+        "output": "5728"
+    },
+    {
+        "input": 6540,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 3501,
+        "output": "Fizz"
+    },
+    {
+        "input": 7130,
+        "output": "Buzz"
+    },
+    {
+        "input": 2478,
+        "output": "Fizz"
+    },
+    {
+        "input": 15,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6951,
+        "output": "Fizz"
+    },
+    {
+        "input": 743,
+        "output": "743"
+    },
+    {
+        "input": 6987,
+        "output": "Fizz"
+    },
+    {
+        "input": 6087,
+        "output": "Fizz"
+    },
+    {
+        "input": 6493,
+        "output": "6493"
+    },
+    {
+        "input": 9431,
+        "output": "9431"
+    },
+    {
+        "input": 7321,
+        "output": "7321"
+    },
+    {
+        "input": 1767,
+        "output": "Fizz"
+    },
+    {
+        "input": 9484,
+        "output": "9484"
+    },
+    {
+        "input": 7974,
+        "output": "Fizz"
+    },
+    {
+        "input": 7146,
+        "output": "Fizz"
+    },
+    {
+        "input": 5225,
+        "output": "Buzz"
+    },
+    {
+        "input": 6042,
+        "output": "Fizz"
+    },
+    {
+        "input": 7803,
+        "output": "Fizz"
+    },
+    {
+        "input": 5638,
+        "output": "5638"
+    },
+    {
+        "input": 9706,
+        "output": "9706"
+    },
+    {
+        "input": 5967,
+        "output": "Fizz"
+    },
+    {
+        "input": 6444,
+        "output": "Fizz"
+    },
+    {
+        "input": 3339,
+        "output": "Fizz"
+    },
+    {
+        "input": 8311,
+        "output": "8311"
+    },
+    {
+        "input": 1587,
+        "output": "Fizz"
+    },
+    {
+        "input": 2118,
+        "output": "Fizz"
+    },
+    {
+        "input": 2867,
+        "output": "2867"
+    },
+    {
+        "input": 893,
+        "output": "893"
+    },
+    {
+        "input": 9102,
+        "output": "Fizz"
+    },
+    {
+        "input": 4549,
+        "output": "4549"
+    },
+    {
+        "input": 3581,
+        "output": "3581"
+    },
+    {
+        "input": 2525,
+        "output": "Buzz"
+    },
+    {
+        "input": 1024,
+        "output": "1024"
+    },
+    {
+        "input": 7831,
+        "output": "7831"
+    },
+    {
+        "input": 3391,
+        "output": "3391"
+    },
+    {
+        "input": 6468,
+        "output": "Fizz"
+    },
+    {
+        "input": 7551,
+        "output": "Fizz"
+    },
+    {
+        "input": 8274,
+        "output": "Fizz"
+    },
+    {
+        "input": 5901,
+        "output": "Fizz"
+    },
+    {
+        "input": 8854,
+        "output": "8854"
+    },
+    {
+        "input": 1458,
+        "output": "Fizz"
+    },
+    {
+        "input": 1250,
+        "output": "Buzz"
+    },
+    {
+        "input": 520,
+        "output": "Buzz"
+    },
+    {
+        "input": 9159,
+        "output": "Fizz"
+    },
+    {
+        "input": 7314,
+        "output": "Fizz"
+    },
+    {
+        "input": 6069,
+        "output": "Fizz"
+    },
+    {
+        "input": 1848,
+        "output": "Fizz"
+    },
+    {
+        "input": 9643,
+        "output": "9643"
+    },
+    {
+        "input": 5804,
+        "output": "5804"
+    },
+    {
+        "input": 6101,
+        "output": "6101"
+    },
+    {
+        "input": 9479,
+        "output": "9479"
+    },
+    {
+        "input": 5156,
+        "output": "5156"
+    },
+    {
+        "input": 3761,
+        "output": "3761"
+    },
+    {
+        "input": 6706,
+        "output": "6706"
+    },
+    {
+        "input": 602,
+        "output": "602"
+    },
+    {
+        "input": 170,
+        "output": "Buzz"
+    },
+    {
+        "input": 5323,
+        "output": "5323"
+    },
+    {
+        "input": 7522,
+        "output": "7522"
+    },
+    {
+        "input": 234,
+        "output": "Fizz"
+    },
+    {
+        "input": 4091,
+        "output": "4091"
+    },
+    {
+        "input": 9170,
+        "output": "Buzz"
+    },
+    {
+        "input": 5399,
+        "output": "5399"
+    },
+    {
+        "input": 4870,
+        "output": "Buzz"
+    },
+    {
+        "input": 2112,
+        "output": "Fizz"
+    },
+    {
+        "input": 9274,
+        "output": "9274"
+    },
+    {
+        "input": 1174,
+        "output": "1174"
+    },
+    {
+        "input": 6021,
+        "output": "Fizz"
+    },
+    {
+        "input": 4631,
+        "output": "4631"
+    },
+    {
+        "input": 6408,
+        "output": "Fizz"
+    },
+    {
+        "input": 1694,
+        "output": "1694"
+    },
+    {
+        "input": 8873,
+        "output": "8873"
+    },
+    {
+        "input": 819,
+        "output": "Fizz"
+    },
+    {
+        "input": 1719,
+        "output": "Fizz"
+    },
+    {
+        "input": 3055,
+        "output": "Buzz"
+    },
+    {
+        "input": 1086,
+        "output": "Fizz"
+    },
+    {
+        "input": 8335,
+        "output": "Buzz"
+    },
+    {
+        "input": 1048,
+        "output": "1048"
+    },
+    {
+        "input": 6912,
+        "output": "Fizz"
+    },
+    {
+        "input": 2159,
+        "output": "2159"
+    },
+    {
+        "input": 1918,
+        "output": "1918"
+    },
+    {
+        "input": 8408,
+        "output": "8408"
+    },
+    {
+        "input": 4643,
+        "output": "4643"
+    },
+    {
+        "input": 8072,
+        "output": "8072"
+    },
+    {
+        "input": 3715,
+        "output": "Buzz"
+    },
+    {
+        "input": 6931,
+        "output": "6931"
+    },
+    {
+        "input": 3308,
+        "output": "3308"
+    },
+    {
+        "input": 1210,
+        "output": "Buzz"
+    },
+    {
+        "input": 7902,
+        "output": "Fizz"
+    },
+    {
+        "input": 6243,
+        "output": "Fizz"
+    },
+    {
+        "input": 8778,
+        "output": "Fizz"
+    },
+    {
+        "input": 3696,
+        "output": "Fizz"
+    },
+    {
+        "input": 3051,
+        "output": "Fizz"
+    },
+    {
+        "input": 679,
+        "output": "679"
+    },
+    {
+        "input": 3775,
+        "output": "Buzz"
+    },
+    {
+        "input": 8815,
+        "output": "Buzz"
+    },
+    {
+        "input": 8649,
+        "output": "Fizz"
+    },
+    {
+        "input": 5512,
+        "output": "5512"
+    },
+    {
+        "input": 3074,
+        "output": "3074"
+    },
+    {
+        "input": 8866,
+        "output": "8866"
+    },
+    {
+        "input": 305,
+        "output": "Buzz"
+    },
+    {
+        "input": 2922,
+        "output": "Fizz"
+    },
+    {
+        "input": 99,
+        "output": "Fizz"
+    },
+    {
+        "input": 9147,
+        "output": "Fizz"
+    },
+    {
+        "input": 3279,
+        "output": "Fizz"
+    },
+    {
+        "input": 1529,
+        "output": "1529"
+    },
+    {
+        "input": 5619,
+        "output": "Fizz"
+    },
+    {
+        "input": 8497,
+        "output": "8497"
+    },
+    {
+        "input": 2783,
+        "output": "2783"
+    },
+    {
+        "input": 7139,
+        "output": "7139"
+    },
+    {
+        "input": 6651,
+        "output": "Fizz"
+    },
+    {
+        "input": 8708,
+        "output": "8708"
+    },
+    {
+        "input": 7563,
+        "output": "Fizz"
+    },
+    {
+        "input": 8055,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7093,
+        "output": "7093"
+    },
+    {
+        "input": 173,
+        "output": "173"
+    },
+    {
+        "input": 3871,
+        "output": "3871"
+    },
+    {
+        "input": 5513,
+        "output": "5513"
+    },
+    {
+        "input": 1805,
+        "output": "Buzz"
+    },
+    {
+        "input": 8036,
+        "output": "8036"
+    },
+    {
+        "input": 8532,
+        "output": "Fizz"
+    },
+    {
+        "input": 404,
+        "output": "404"
+    },
+    {
+        "input": 4501,
+        "output": "4501"
+    },
+    {
+        "input": 1269,
+        "output": "Fizz"
+    },
+    {
+        "input": 737,
+        "output": "737"
+    },
+    {
+        "input": 1282,
+        "output": "1282"
+    },
+    {
+        "input": 8731,
+        "output": "8731"
+    },
+    {
+        "input": 8494,
+        "output": "8494"
+    },
+    {
+        "input": 9630,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1358,
+        "output": "1358"
+    },
+    {
+        "input": 8580,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1403,
+        "output": "1403"
+    },
+    {
+        "input": 7824,
+        "output": "Fizz"
+    },
+    {
+        "input": 4063,
+        "output": "4063"
+    },
+    {
+        "input": 1674,
+        "output": "Fizz"
+    },
+    {
+        "input": 8488,
+        "output": "8488"
+    },
+    {
+        "input": 9430,
+        "output": "Buzz"
+    },
+    {
+        "input": 4334,
+        "output": "4334"
+    },
+    {
+        "input": 363,
+        "output": "Fizz"
+    },
+    {
+        "input": 7766,
+        "output": "7766"
+    },
+    {
+        "input": 9236,
+        "output": "9236"
+    },
+    {
+        "input": 6737,
+        "output": "6737"
+    },
+    {
+        "input": 283,
+        "output": "283"
+    },
+    {
+        "input": 1542,
+        "output": "Fizz"
+    },
+    {
+        "input": 5842,
+        "output": "5842"
+    },
+    {
+        "input": 4169,
+        "output": "4169"
+    },
+    {
+        "input": 1659,
+        "output": "Fizz"
+    },
+    {
+        "input": 3787,
+        "output": "3787"
+    },
+    {
+        "input": 2320,
+        "output": "Buzz"
+    },
+    {
+        "input": 7254,
+        "output": "Fizz"
+    },
+    {
+        "input": 5982,
+        "output": "Fizz"
+    },
+    {
+        "input": 9138,
+        "output": "Fizz"
+    },
+    {
+        "input": 8130,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 4287,
+        "output": "Fizz"
+    },
+    {
+        "input": 8016,
+        "output": "Fizz"
+    },
+    {
+        "input": 3670,
+        "output": "Buzz"
+    },
+    {
+        "input": 7949,
+        "output": "7949"
+    },
+    {
+        "input": 7732,
+        "output": "7732"
+    },
+    {
+        "input": 8634,
+        "output": "Fizz"
+    },
+    {
+        "input": 7263,
+        "output": "Fizz"
+    },
+    {
+        "input": 3319,
+        "output": "3319"
+    },
+    {
+        "input": 5370,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 121,
+        "output": "121"
+    },
+    {
+        "input": 257,
+        "output": "257"
+    },
+    {
+        "input": 8027,
+        "output": "8027"
+    },
+    {
+        "input": 4010,
+        "output": "Buzz"
+    },
+    {
+        "input": 307,
+        "output": "307"
+    },
+    {
+        "input": 2428,
+        "output": "2428"
+    },
+    {
+        "input": 6789,
+        "output": "Fizz"
+    },
+    {
+        "input": 102,
+        "output": "Fizz"
+    },
+    {
+        "input": 2850,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2819,
+        "output": "2819"
+    },
+    {
+        "input": 2986,
+        "output": "2986"
+    },
+    {
+        "input": 4889,
+        "output": "4889"
+    },
+    {
+        "input": 4,
+        "output": "4"
+    },
+    {
+        "input": 5846,
+        "output": "5846"
+    },
+    {
+        "input": 7448,
+        "output": "7448"
+    },
+    {
+        "input": 5899,
+        "output": "5899"
+    },
+    {
+        "input": 8074,
+        "output": "8074"
+    },
+    {
+        "input": 1993,
+        "output": "1993"
+    },
+    {
+        "input": 5398,
+        "output": "5398"
+    },
+    {
+        "input": 7630,
+        "output": "Buzz"
+    },
+    {
+        "input": 1336,
+        "output": "1336"
+    },
+    {
+        "input": 5101,
+        "output": "5101"
+    },
+    {
+        "input": 9807,
+        "output": "Fizz"
+    },
+    {
+        "input": 7542,
+        "output": "Fizz"
+    },
+    {
+        "input": 4692,
+        "output": "Fizz"
+    },
+    {
+        "input": 6469,
+        "output": "6469"
+    },
+    {
+        "input": 4619,
+        "output": "4619"
+    },
+    {
+        "input": 1614,
+        "output": "Fizz"
+    },
+    {
+        "input": 2938,
+        "output": "2938"
+    },
+    {
+        "input": 751,
+        "output": "751"
+    },
+    {
+        "input": 1489,
+        "output": "1489"
+    },
+    {
+        "input": 2806,
+        "output": "2806"
+    },
+    {
+        "input": 5776,
+        "output": "5776"
+    },
+    {
+        "input": 7772,
+        "output": "7772"
+    },
+    {
+        "input": 2307,
+        "output": "Fizz"
+    },
+    {
+        "input": 626,
+        "output": "626"
+    },
+    {
+        "input": 8994,
+        "output": "Fizz"
+    },
+    {
+        "input": 3571,
+        "output": "3571"
+    },
+    {
+        "input": 3732,
+        "output": "Fizz"
+    },
+    {
+        "input": 4440,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2290,
+        "output": "Buzz"
+    },
+    {
+        "input": 1799,
+        "output": "1799"
+    },
+    {
+        "input": 4281,
+        "output": "Fizz"
+    },
+    {
+        "input": 7197,
+        "output": "Fizz"
+    },
+    {
+        "input": 1747,
+        "output": "1747"
+    },
+    {
+        "input": 6809,
+        "output": "6809"
+    },
+    {
+        "input": 272,
+        "output": "272"
+    },
+    {
+        "input": 4361,
+        "output": "4361"
+    },
+    {
+        "input": 7966,
+        "output": "7966"
+    },
+    {
+        "input": 7162,
+        "output": "7162"
+    },
+    {
+        "input": 7946,
+        "output": "7946"
+    },
+    {
+        "input": 5405,
+        "output": "Buzz"
+    },
+    {
+        "input": 5018,
+        "output": "5018"
+    },
+    {
+        "input": 1535,
+        "output": "Buzz"
+    },
+    {
+        "input": 4969,
+        "output": "4969"
+    },
+    {
+        "input": 9518,
+        "output": "9518"
+    },
+    {
+        "input": 6913,
+        "output": "6913"
+    },
+    {
+        "input": 6814,
+        "output": "6814"
+    },
+    {
+        "input": 5329,
+        "output": "5329"
+    },
+    {
+        "input": 7632,
+        "output": "Fizz"
+    },
+    {
+        "input": 9210,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 8657,
+        "output": "8657"
+    },
+    {
+        "input": 5618,
+        "output": "5618"
+    },
+    {
+        "input": 1135,
+        "output": "Buzz"
+    },
+    {
+        "input": 4115,
+        "output": "Buzz"
+    },
+    {
+        "input": 4383,
+        "output": "Fizz"
+    },
+    {
+        "input": 3814,
+        "output": "3814"
+    },
+    {
+        "input": 3303,
+        "output": "Fizz"
+    },
+    {
+        "input": 2309,
+        "output": "2309"
+    },
+    {
+        "input": 5675,
+        "output": "Buzz"
+    },
+    {
+        "input": 6984,
+        "output": "Fizz"
+    },
+    {
+        "input": 464,
+        "output": "464"
+    },
+    {
+        "input": 4790,
+        "output": "Buzz"
+    },
+    {
+        "input": 3978,
+        "output": "Fizz"
+    },
+    {
+        "input": 3826,
+        "output": "3826"
+    },
+    {
+        "input": 8401,
+        "output": "8401"
+    },
+    {
+        "input": 6719,
+        "output": "6719"
+    },
+    {
+        "input": 3361,
+        "output": "3361"
+    },
+    {
+        "input": 5506,
+        "output": "5506"
+    },
+    {
+        "input": 7439,
+        "output": "7439"
+    },
+    {
+        "input": 5736,
+        "output": "Fizz"
+    },
+    {
+        "input": 2434,
+        "output": "2434"
+    },
+    {
+        "input": 1716,
+        "output": "Fizz"
+    },
+    {
+        "input": 5541,
+        "output": "Fizz"
+    },
+    {
+        "input": 8864,
+        "output": "8864"
+    },
+    {
+        "input": 2947,
+        "output": "2947"
+    },
+    {
+        "input": 6668,
+        "output": "6668"
+    },
+    {
+        "input": 2059,
+        "output": "2059"
+    },
+    {
+        "input": 566,
+        "output": "566"
+    },
+    {
+        "input": 3177,
+        "output": "Fizz"
+    },
+    {
+        "input": 1042,
+        "output": "1042"
+    },
+    {
+        "input": 1796,
+        "output": "1796"
+    },
+    {
+        "input": 375,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7302,
+        "output": "Fizz"
+    },
+    {
+        "input": 5480,
+        "output": "Buzz"
+    },
+    {
+        "input": 374,
+        "output": "374"
+    },
+    {
+        "input": 4783,
+        "output": "4783"
+    },
+    {
+        "input": 6120,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1297,
+        "output": "1297"
+    },
+    {
+        "input": 4924,
+        "output": "4924"
+    },
+    {
+        "input": 8024,
+        "output": "8024"
+    },
+    {
+        "input": 3067,
+        "output": "3067"
+    },
+    {
+        "input": 5892,
+        "output": "Fizz"
+    },
+    {
+        "input": 507,
+        "output": "Fizz"
+    },
+    {
+        "input": 5895,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6506,
+        "output": "6506"
+    },
+    {
+        "input": 7546,
+        "output": "7546"
+    },
+    {
+        "input": 3610,
+        "output": "Buzz"
+    },
+    {
+        "input": 6732,
+        "output": "Fizz"
+    },
+    {
+        "input": 7907,
+        "output": "7907"
+    },
+    {
+        "input": 4013,
+        "output": "4013"
+    },
+    {
+        "input": 7886,
+        "output": "7886"
+    },
+    {
+        "input": 7074,
+        "output": "Fizz"
+    },
+    {
+        "input": 1691,
+        "output": "1691"
+    },
+    {
+        "input": 2743,
+        "output": "2743"
+    },
+    {
+        "input": 1240,
+        "output": "Buzz"
+    },
+    {
+        "input": 3375,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7128,
+        "output": "Fizz"
+    },
+    {
+        "input": 7714,
+        "output": "7714"
+    },
+    {
+        "input": 84,
+        "output": "Fizz"
+    },
+    {
+        "input": 780,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 739,
+        "output": "739"
+    },
+    {
+        "input": 5459,
+        "output": "5459"
+    },
+    {
+        "input": 9656,
+        "output": "9656"
+    },
+    {
+        "input": 1997,
+        "output": "1997"
+    },
+    {
+        "input": 7597,
+        "output": "7597"
+    },
+    {
+        "input": 9402,
+        "output": "Fizz"
+    },
+    {
+        "input": 5070,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6016,
+        "output": "6016"
+    },
+    {
+        "input": 2505,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 3464,
+        "output": "3464"
+    },
+    {
+        "input": 2568,
+        "output": "Fizz"
+    },
+    {
+        "input": 4059,
+        "output": "Fizz"
+    },
+    {
+        "input": 9233,
+        "output": "9233"
+    },
+    {
+        "input": 3170,
+        "output": "Buzz"
+    },
+    {
+        "input": 1618,
+        "output": "1618"
+    },
+    {
+        "input": 348,
+        "output": "Fizz"
+    },
+    {
+        "input": 4004,
+        "output": "4004"
+    },
+    {
+        "input": 6652,
+        "output": "6652"
+    },
+    {
+        "input": 2034,
+        "output": "Fizz"
+    },
+    {
+        "input": 1321,
+        "output": "1321"
+    },
+    {
+        "input": 9347,
+        "output": "9347"
+    },
+    {
+        "input": 1956,
+        "output": "Fizz"
+    },
+    {
+        "input": 2981,
+        "output": "2981"
+    },
+    {
+        "input": 5990,
+        "output": "Buzz"
+    },
+    {
+        "input": 9705,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1222,
+        "output": "1222"
+    },
+    {
+        "input": 9090,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2044,
+        "output": "2044"
+    },
+    {
+        "input": 8643,
+        "output": "Fizz"
+    },
+    {
+        "input": 952,
+        "output": "952"
+    },
+    {
+        "input": 4803,
+        "output": "Fizz"
+    },
+    {
+        "input": 4586,
+        "output": "4586"
+    },
+    {
+        "input": 3085,
+        "output": "Buzz"
+    },
+    {
+        "input": 2709,
+        "output": "Fizz"
+    },
+    {
+        "input": 6674,
+        "output": "6674"
+    },
+    {
+        "input": 1479,
+        "output": "Fizz"
+    },
+    {
+        "input": 7394,
+        "output": "7394"
+    },
+    {
+        "input": 8747,
+        "output": "8747"
+    },
+    {
+        "input": 1311,
+        "output": "Fizz"
+    },
+    {
+        "input": 7006,
+        "output": "7006"
+    },
+    {
+        "input": 5602,
+        "output": "5602"
+    },
+    {
+        "input": 7785,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7359,
+        "output": "Fizz"
+    },
+    {
+        "input": 9747,
+        "output": "Fizz"
+    },
+    {
+        "input": 6617,
+        "output": "6617"
+    },
+    {
+        "input": 2871,
+        "output": "Fizz"
+    },
+    {
+        "input": 3629,
+        "output": "3629"
+    },
+    {
+        "input": 8224,
+        "output": "8224"
+    },
+    {
+        "input": 3201,
+        "output": "Fizz"
+    },
+    {
+        "input": 1712,
+        "output": "1712"
+    },
+    {
+        "input": 2406,
+        "output": "Fizz"
+    },
+    {
+        "input": 8457,
+        "output": "Fizz"
+    },
+    {
+        "input": 237,
+        "output": "Fizz"
+    },
+    {
+        "input": 4480,
+        "output": "Buzz"
+    },
+    {
+        "input": 8443,
+        "output": "8443"
+    },
+    {
+        "input": 159,
+        "output": "Fizz"
+    },
+    {
+        "input": 2246,
+        "output": "2246"
+    },
+    {
+        "input": 821,
+        "output": "821"
+    },
+    {
+        "input": 7425,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1861,
+        "output": "1861"
+    },
+    {
+        "input": 1760,
+        "output": "Buzz"
+    },
+    {
+        "input": 2954,
+        "output": "2954"
+    },
+    {
+        "input": 807,
+        "output": "Fizz"
+    },
+    {
+        "input": 3567,
+        "output": "Fizz"
+    },
+    {
+        "input": 950,
+        "output": "Buzz"
+    },
+    {
+        "input": 9173,
+        "output": "9173"
+    },
+    {
+        "input": 8890,
+        "output": "Buzz"
+    },
+    {
+        "input": 8737,
+        "output": "8737"
+    },
+    {
+        "input": 6920,
+        "output": "Buzz"
+    },
+    {
+        "input": 5149,
+        "output": "5149"
+    },
+    {
+        "input": 2241,
+        "output": "Fizz"
+    },
+    {
+        "input": 5254,
+        "output": "5254"
+    },
+    {
+        "input": 9719,
+        "output": "9719"
+    },
+    {
+        "input": 2327,
+        "output": "2327"
+    },
+    {
+        "input": 2127,
+        "output": "Fizz"
+    },
+    {
+        "input": 339,
+        "output": "Fizz"
+    },
+    {
+        "input": 7488,
+        "output": "Fizz"
+    },
+    {
+        "input": 3559,
+        "output": "3559"
+    },
+    {
+        "input": 681,
+        "output": "Fizz"
+    },
+    {
+        "input": 5971,
+        "output": "5971"
+    },
+    {
+        "input": 587,
+        "output": "587"
+    },
+    {
+        "input": 5384,
+        "output": "5384"
+    },
+    {
+        "input": 8303,
+        "output": "8303"
+    },
+    {
+        "input": 2758,
+        "output": "2758"
+    },
+    {
+        "input": 2926,
+        "output": "2926"
+    },
+    {
+        "input": 9635,
+        "output": "Buzz"
+    },
+    {
+        "input": 1749,
+        "output": "Fizz"
+    },
+    {
+        "input": 399,
+        "output": "Fizz"
+    },
+    {
+        "input": 6047,
+        "output": "6047"
+    },
+    {
+        "input": 9194,
+        "output": "9194"
+    },
+    {
+        "input": 861,
+        "output": "Fizz"
+    },
+    {
+        "input": 6763,
+        "output": "6763"
+    },
+    {
+        "input": 6925,
+        "output": "Buzz"
+    },
+    {
+        "input": 1673,
+        "output": "1673"
+    },
+    {
+        "input": 7626,
+        "output": "Fizz"
+    },
+    {
+        "input": 20,
+        "output": "Buzz"
+    },
+    {
+        "input": 8727,
+        "output": "Fizz"
+    },
+    {
+        "input": 5278,
+        "output": "5278"
+    },
+    {
+        "input": 9125,
+        "output": "Buzz"
+    },
+    {
+        "input": 5342,
+        "output": "5342"
+    },
+    {
+        "input": 67,
+        "output": "67"
+    },
+    {
+        "input": 1505,
+        "output": "Buzz"
+    },
+    {
+        "input": 7701,
+        "output": "Fizz"
+    },
+    {
+        "input": 2041,
+        "output": "2041"
+    },
+    {
+        "input": 9223,
+        "output": "9223"
+    },
+    {
+        "input": 7838,
+        "output": "7838"
+    },
+    {
+        "input": 6548,
+        "output": "6548"
+    },
+    {
+        "input": 6168,
+        "output": "Fizz"
+    },
+    {
+        "input": 1351,
+        "output": "1351"
+    },
+    {
+        "input": 4437,
+        "output": "Fizz"
+    },
+    {
+        "input": 4596,
+        "output": "Fizz"
+    },
+    {
+        "input": 7065,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1518,
+        "output": "Fizz"
+    },
+    {
+        "input": 5007,
+        "output": "Fizz"
+    },
+    {
+        "input": 1958,
+        "output": "1958"
+    },
+    {
+        "input": 9985,
+        "output": "Buzz"
+    },
+    {
+        "input": 3283,
+        "output": "3283"
+    },
+    {
+        "input": 4399,
+        "output": "4399"
+    },
+    {
+        "input": 122,
+        "output": "122"
+    },
+    {
+        "input": 9924,
+        "output": "Fizz"
+    },
+    {
+        "input": 9148,
+        "output": "9148"
+    },
+    {
+        "input": 2635,
+        "output": "Buzz"
+    },
+    {
+        "input": 4943,
+        "output": "4943"
+    },
+    {
+        "input": 8733,
+        "output": "Fizz"
+    },
+    {
+        "input": 338,
+        "output": "338"
+    },
+    {
+        "input": 118,
+        "output": "118"
+    },
+    {
+        "input": 1681,
+        "output": "1681"
+    },
+    {
+        "input": 6869,
+        "output": "6869"
+    },
+    {
+        "input": 1001,
+        "output": "1001"
+    },
+    {
+        "input": 9961,
+        "output": "9961"
+    },
+    {
+        "input": 6217,
+        "output": "6217"
+    },
+    {
+        "input": 2210,
+        "output": "Buzz"
+    },
+    {
+        "input": 5683,
+        "output": "5683"
+    },
+    {
+        "input": 691,
+        "output": "691"
+    },
+    {
+        "input": 9617,
+        "output": "9617"
+    },
+    {
+        "input": 776,
+        "output": "776"
+    },
+    {
+        "input": 1541,
+        "output": "1541"
+    },
+    {
+        "input": 9870,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 8325,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2956,
+        "output": "2956"
+    },
+    {
+        "input": 5223,
+        "output": "Fizz"
+    },
+    {
+        "input": 1764,
+        "output": "Fizz"
+    },
+    {
+        "input": 1957,
+        "output": "1957"
+    },
+    {
+        "input": 8553,
+        "output": "Fizz"
+    },
+    {
+        "input": 990,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6040,
+        "output": "Buzz"
+    },
+    {
+        "input": 7179,
+        "output": "Fizz"
+    },
+    {
+        "input": 9352,
+        "output": "9352"
+    },
+    {
+        "input": 2716,
+        "output": "2716"
+    },
+    {
+        "input": 1636,
+        "output": "1636"
+    },
+    {
+        "input": 6116,
+        "output": "6116"
+    },
+    {
+        "input": 8440,
+        "output": "Buzz"
+    },
+    {
+        "input": 6463,
+        "output": "6463"
+    },
+    {
+        "input": 7159,
+        "output": "7159"
+    },
+    {
+        "input": 1349,
+        "output": "1349"
+    },
+    {
+        "input": 5877,
+        "output": "Fizz"
+    },
+    {
+        "input": 1833,
+        "output": "Fizz"
+    },
+    {
+        "input": 8892,
+        "output": "Fizz"
+    },
+    {
+        "input": 2345,
+        "output": "Buzz"
+    },
+    {
+        "input": 6774,
+        "output": "Fizz"
+    },
+    {
+        "input": 1991,
+        "output": "1991"
+    },
+    {
+        "input": 6905,
+        "output": "Buzz"
+    },
+    {
+        "input": 8673,
+        "output": "Fizz"
+    },
+    {
+        "input": 2099,
+        "output": "2099"
+    },
+    {
+        "input": 9760,
+        "output": "Buzz"
+    },
+    {
+        "input": 5880,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1838,
+        "output": "1838"
+    },
+    {
+        "input": 720,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7936,
+        "output": "7936"
+    },
+    {
+        "input": 6777,
+        "output": "Fizz"
+    },
+    {
+        "input": 244,
+        "output": "244"
+    },
+    {
+        "input": 5015,
+        "output": "Buzz"
+    },
+    {
+        "input": 6285,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5021,
+        "output": "5021"
+    },
+    {
+        "input": 2489,
+        "output": "2489"
+    },
+    {
+        "input": 9661,
+        "output": "9661"
+    },
+    {
+        "input": 965,
+        "output": "Buzz"
+    },
+    {
+        "input": 8081,
+        "output": "8081"
+    },
+    {
+        "input": 6543,
+        "output": "Fizz"
+    },
+    {
+        "input": 7354,
+        "output": "7354"
+    },
+    {
+        "input": 4161,
+        "output": "Fizz"
+    },
+    {
+        "input": 7729,
+        "output": "7729"
+    },
+    {
+        "input": 3133,
+        "output": "3133"
+    },
+    {
+        "input": 9377,
+        "output": "9377"
+    },
+    {
+        "input": 4649,
+        "output": "4649"
+    },
+    {
+        "input": 5664,
+        "output": "Fizz"
+    },
+    {
+        "input": 1858,
+        "output": "1858"
+    },
+    {
+        "input": 2109,
+        "output": "Fizz"
+    },
+    {
+        "input": 661,
+        "output": "661"
+    },
+    {
+        "input": 9164,
+        "output": "9164"
+    },
+    {
+        "input": 2563,
+        "output": "2563"
+    },
+    {
+        "input": 6430,
+        "output": "Buzz"
+    },
+    {
+        "input": 3167,
+        "output": "3167"
+    },
+    {
+        "input": 5291,
+        "output": "5291"
+    },
+    {
+        "input": 1234,
+        "output": "1234"
+    },
+    {
+        "input": 5185,
+        "output": "Buzz"
+    },
+    {
+        "input": 2120,
+        "output": "Buzz"
+    },
+    {
+        "input": 2736,
+        "output": "Fizz"
+    },
+    {
+        "input": 6948,
+        "output": "Fizz"
+    },
+    {
+        "input": 7064,
+        "output": "7064"
+    },
+    {
+        "input": 1459,
+        "output": "1459"
+    },
+    {
+        "input": 4181,
+        "output": "4181"
+    },
+    {
+        "input": 2139,
+        "output": "Fizz"
+    },
+    {
+        "input": 9108,
+        "output": "Fizz"
+    },
+    {
+        "input": 6443,
+        "output": "6443"
+    },
+    {
+        "input": 2606,
+        "output": "2606"
+    },
+    {
+        "input": 1279,
+        "output": "1279"
+    },
+    {
+        "input": 418,
+        "output": "418"
+    },
+    {
+        "input": 7666,
+        "output": "7666"
+    },
+    {
+        "input": 3144,
+        "output": "Fizz"
+    },
+    {
+        "input": 7317,
+        "output": "Fizz"
+    },
+    {
+        "input": 9069,
+        "output": "Fizz"
+    },
+    {
+        "input": 6713,
+        "output": "6713"
+    },
+    {
+        "input": 1844,
+        "output": "1844"
+    },
+    {
+        "input": 9292,
+        "output": "9292"
+    },
+    {
+        "input": 7346,
+        "output": "7346"
+    },
+    {
+        "input": 4122,
+        "output": "Fizz"
+    },
+    {
+        "input": 2024,
+        "output": "2024"
+    },
+    {
+        "input": 4887,
+        "output": "Fizz"
+    },
+    {
+        "input": 4259,
+        "output": "4259"
+    },
+    {
+        "input": 9853,
+        "output": "9853"
+    },
+    {
+        "input": 4904,
+        "output": "4904"
+    },
+    {
+        "input": 6384,
+        "output": "Fizz"
+    },
+    {
+        "input": 9660,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 3224,
+        "output": "3224"
+    },
+    {
+        "input": 5757,
+        "output": "Fizz"
+    },
+    {
+        "input": 1900,
+        "output": "Buzz"
+    },
+    {
+        "input": 5193,
+        "output": "Fizz"
+    },
+    {
+        "input": 1140,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5696,
+        "output": "5696"
+    },
+    {
+        "input": 9333,
+        "output": "Fizz"
+    },
+    {
+        "input": 6702,
+        "output": "Fizz"
+    },
+    {
+        "input": 3222,
+        "output": "Fizz"
+    },
+    {
+        "input": 8280,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1050,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 9334,
+        "output": "9334"
+    },
+    {
+        "input": 5640,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7534,
+        "output": "7534"
+    },
+    {
+        "input": 6870,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2957,
+        "output": "2957"
+    },
+    {
+        "input": 2004,
+        "output": "Fizz"
+    },
+    {
+        "input": 9100,
+        "output": "Buzz"
+    },
+    {
+        "input": 1124,
+        "output": "1124"
+    },
+    {
+        "input": 8896,
+        "output": "8896"
+    },
+    {
+        "input": 7574,
+        "output": "7574"
+    },
+    {
+        "input": 6054,
+        "output": "Fizz"
+    },
+    {
+        "input": 3282,
+        "output": "Fizz"
+    },
+    {
+        "input": 4177,
+        "output": "4177"
+    },
+    {
+        "input": 3312,
+        "output": "Fizz"
+    },
+    {
+        "input": 5053,
+        "output": "5053"
+    },
+    {
+        "input": 7909,
+        "output": "7909"
+    },
+    {
+        "input": 797,
+        "output": "797"
+    },
+    {
+        "input": 5504,
+        "output": "5504"
+    },
+    {
+        "input": 3293,
+        "output": "3293"
+    },
+    {
+        "input": 9768,
+        "output": "Fizz"
+    },
+    {
+        "input": 9702,
+        "output": "Fizz"
+    },
+    {
+        "input": 9859,
+        "output": "9859"
+    },
+    {
+        "input": 1759,
+        "output": "1759"
+    },
+    {
+        "input": 7979,
+        "output": "7979"
+    },
+    {
+        "input": 5796,
+        "output": "Fizz"
+    },
+    {
+        "input": 223,
+        "output": "223"
+    },
+    {
+        "input": 4785,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2504,
+        "output": "2504"
+    },
+    {
+        "input": 6347,
+        "output": "6347"
+    },
+    {
+        "input": 1510,
+        "output": "Buzz"
+    },
+    {
+        "input": 4823,
+        "output": "4823"
+    },
+    {
+        "input": 1007,
+        "output": "1007"
+    },
+    {
+        "input": 4269,
+        "output": "Fizz"
+    },
+    {
+        "input": 535,
+        "output": "Buzz"
+    },
+    {
+        "input": 4500,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 1116,
+        "output": "Fizz"
+    },
+    {
+        "input": 6554,
+        "output": "6554"
+    },
+    {
+        "input": 7175,
+        "output": "Buzz"
+    },
+    {
+        "input": 9177,
+        "output": "Fizz"
+    },
+    {
+        "input": 3481,
+        "output": "3481"
+    },
+    {
+        "input": 8485,
+        "output": "Buzz"
+    },
+    {
+        "input": 1762,
+        "output": "1762"
+    },
+    {
+        "input": 9866,
+        "output": "9866"
+    },
+    {
+        "input": 7137,
+        "output": "Fizz"
+    },
+    {
+        "input": 4741,
+        "output": "4741"
+    },
+    {
+        "input": 9504,
+        "output": "Fizz"
+    },
+    {
+        "input": 3030,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 4518,
+        "output": "Fizz"
+    },
+    {
+        "input": 1312,
+        "output": "1312"
+    },
+    {
+        "input": 9822,
+        "output": "Fizz"
+    },
+    {
+        "input": 7848,
+        "output": "Fizz"
+    },
+    {
+        "input": 7543,
+        "output": "7543"
+    },
+    {
+        "input": 922,
+        "output": "922"
+    },
+    {
+        "input": 8006,
+        "output": "8006"
+    },
+    {
+        "input": 591,
+        "output": "Fizz"
+    },
+    {
+        "input": 2057,
+        "output": "2057"
+    },
+    {
+        "input": 5414,
+        "output": "5414"
+    },
+    {
+        "input": 8770,
+        "output": "Buzz"
+    },
+    {
+        "input": 3946,
+        "output": "3946"
+    },
+    {
+        "input": 9744,
+        "output": "Fizz"
+    },
+    {
+        "input": 9039,
+        "output": "Fizz"
+    },
+    {
+        "input": 2879,
+        "output": "2879"
+    },
+    {
+        "input": 1549,
+        "output": "1549"
+    },
+    {
+        "input": 3093,
+        "output": "Fizz"
+    },
+    {
+        "input": 1856,
+        "output": "1856"
+    },
+    {
+        "input": 592,
+        "output": "592"
+    },
+    {
+        "input": 1551,
+        "output": "Fizz"
+    },
+    {
+        "input": 6785,
+        "output": "Buzz"
+    },
+    {
+        "input": 5208,
+        "output": "Fizz"
+    },
+    {
+        "input": 1707,
+        "output": "Fizz"
+    },
+    {
+        "input": 5257,
+        "output": "5257"
+    },
+    {
+        "input": 2162,
+        "output": "2162"
+    },
+    {
+        "input": 3789,
+        "output": "Fizz"
+    },
+    {
+        "input": 5242,
+        "output": "5242"
+    },
+    {
+        "input": 2737,
+        "output": "2737"
+    },
+    {
+        "input": 5536,
+        "output": "5536"
+    },
+    {
+        "input": 9540,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 5564,
+        "output": "5564"
+    },
+    {
+        "input": 7199,
+        "output": "7199"
+    },
+    {
+        "input": 8216,
+        "output": "8216"
+    },
+    {
+        "input": 7649,
+        "output": "7649"
+    },
+    {
+        "input": 298,
+        "output": "298"
+    },
+    {
+        "input": 3644,
+        "output": "3644"
+    },
+    {
+        "input": 7444,
+        "output": "7444"
+    },
+    {
+        "input": 6038,
+        "output": "6038"
+    },
+    {
+        "input": 219,
+        "output": "Fizz"
+    },
+    {
+        "input": 6380,
+        "output": "Buzz"
+    },
+    {
+        "input": 3263,
+        "output": "3263"
+    },
+    {
+        "input": 4171,
+        "output": "4171"
+    },
+    {
+        "input": 9623,
+        "output": "9623"
+    },
+    {
+        "input": 8689,
+        "output": "8689"
+    },
+    {
+        "input": 3917,
+        "output": "3917"
+    },
+    {
+        "input": 518,
+        "output": "518"
+    },
+    {
+        "input": 5141,
+        "output": "5141"
+    },
+    {
+        "input": 9307,
+        "output": "9307"
+    },
+    {
+        "input": 4446,
+        "output": "Fizz"
+    },
+    {
+        "input": 4019,
+        "output": "4019"
+    },
+    {
+        "input": 707,
+        "output": "707"
+    },
+    {
+        "input": 2315,
+        "output": "Buzz"
+    },
+    {
+        "input": 9227,
+        "output": "9227"
+    },
+    {
+        "input": 9608,
+        "output": "9608"
+    },
+    {
+        "input": 9281,
+        "output": "9281"
+    },
+    {
+        "input": 3851,
+        "output": "3851"
+    },
+    {
+        "input": 5155,
+        "output": "Buzz"
+    },
+    {
+        "input": 2321,
+        "output": "2321"
+    },
+    {
+        "input": 255,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 3092,
+        "output": "3092"
+    },
+    {
+        "input": 285,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 2998,
+        "output": "2998"
+    },
+    {
+        "input": 4925,
+        "output": "Buzz"
+    },
+    {
+        "input": 6447,
+        "output": "Fizz"
+    },
+    {
+        "input": 4646,
+        "output": "4646"
+    },
+    {
+        "input": 3136,
+        "output": "3136"
+    },
+    {
+        "input": 3599,
+        "output": "3599"
+    },
+    {
+        "input": 6186,
+        "output": "Fizz"
+    },
+    {
+        "input": 4193,
+        "output": "4193"
+    },
+    {
+        "input": 8566,
+        "output": "8566"
+    },
+    {
+        "input": 2617,
+        "output": "2617"
+    },
+    {
+        "input": 9995,
+        "output": "Buzz"
+    },
+    {
+        "input": 726,
+        "output": "Fizz"
+    },
+    {
+        "input": 2982,
+        "output": "Fizz"
+    },
+    {
+        "input": 3009,
+        "output": "Fizz"
+    },
+    {
+        "input": 7684,
+        "output": "7684"
+    },
+    {
+        "input": 646,
+        "output": "646"
+    },
+    {
+        "input": 317,
+        "output": "317"
+    },
+    {
+        "input": 3036,
+        "output": "Fizz"
+    },
+    {
+        "input": 2666,
+        "output": "2666"
+    },
+    {
+        "input": 2,
+        "output": "2"
+    },
+    {
+        "input": 8145,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7415,
+        "output": "Buzz"
+    },
+    {
+        "input": 8061,
+        "output": "Fizz"
+    },
+    {
+        "input": 6630,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6976,
+        "output": "6976"
+    },
+    {
+        "input": 6172,
+        "output": "6172"
+    },
+    {
+        "input": 4787,
+        "output": "4787"
+    },
+    {
+        "input": 5140,
+        "output": "Buzz"
+    },
+    {
+        "input": 4867,
+        "output": "4867"
+    },
+    {
+        "input": 4425,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6059,
+        "output": "6059"
+    },
+    {
+        "input": 3720,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 6615,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 703,
+        "output": "703"
+    },
+    {
+        "input": 1798,
+        "output": "1798"
+    },
+    {
+        "input": 4617,
+        "output": "Fizz"
+    },
+    {
+        "input": 4366,
+        "output": "4366"
+    },
+    {
+        "input": 8551,
+        "output": "8551"
+    },
+    {
+        "input": 8304,
+        "output": "Fizz"
+    },
+    {
+        "input": 692,
+        "output": "692"
+    },
+    {
+        "input": 8511,
+        "output": "Fizz"
+    },
+    {
+        "input": 1298,
+        "output": "1298"
+    },
+    {
+        "input": 8884,
+        "output": "8884"
+    },
+    {
+        "input": 134,
+        "output": "134"
+    },
+    {
+        "input": 213,
+        "output": "Fizz"
+    },
+    {
+        "input": 4880,
+        "output": "Buzz"
+    },
+    {
+        "input": 8813,
+        "output": "8813"
+    },
+    {
+        "input": 5941,
+        "output": "5941"
+    },
+    {
+        "input": 3287,
+        "output": "3287"
+    },
+    {
+        "input": 1714,
+        "output": "1714"
+    },
+    {
+        "input": 1207,
+        "output": "1207"
+    },
+    {
+        "input": 1313,
+        "output": "1313"
+    },
+    {
+        "input": 1680,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 8647,
+        "output": "8647"
+    },
+    {
+        "input": 1025,
+        "output": "Buzz"
+    },
+    {
+        "input": 3808,
+        "output": "3808"
+    },
+    {
+        "input": 7246,
+        "output": "7246"
+    },
+    {
+        "input": 6499,
+        "output": "6499"
+    },
+    {
+        "input": 4921,
+        "output": "4921"
+    },
+    {
+        "input": 1793,
+        "output": "1793"
+    },
+    {
+        "input": 1941,
+        "output": "Fizz"
+    },
+    {
+        "input": 7618,
+        "output": "7618"
+    },
+    {
+        "input": 9689,
+        "output": "9689"
+    },
+    {
+        "input": 6665,
+        "output": "Buzz"
+    },
+    {
+        "input": 4625,
+        "output": "Buzz"
+    },
+    {
+        "input": 4349,
+        "output": "4349"
+    },
+    {
+        "input": 2594,
+        "output": "2594"
+    },
+    {
+        "input": 5033,
+        "output": "5033"
+    },
+    {
+        "input": 8564,
+        "output": "8564"
+    },
+    {
+        "input": 8672,
+        "output": "8672"
+    },
+    {
+        "input": 7995,
+        "output": "FizzBuzz"
+    },
+    {
+        "input": 7209,
+        "output": "Fizz"
+    },
+    {
+        "input": 2423,
+        "output": "2423"
+    },
+    {
+        "input": 747,
+        "output": "Fizz"
+    },
+    {
+        "input": 3473,
+        "output": "3473"
+    }
+]
